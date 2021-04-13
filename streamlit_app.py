@@ -15,7 +15,7 @@ import shap
 import streamlit as st
 import streamlit.components.v1 as components
 from lightgbm import LGBMClassifier
-from lightgbm_with_simple_features import *
+# from lightgbm_with_simple_features import *
 from PIL import Image
 from sklearn.metrics import confusion_matrix
 from sklearn.model_selection import train_test_split
