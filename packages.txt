@@ -1,2 +1,3 @@
+dialog
 apt-utils
 freeglut3-dev
