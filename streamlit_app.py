@@ -1,5 +1,5 @@
 import streamlit as st
-import librosa
+import cv2
 
 st.set_page_config(page_title="Streamlit Deployment Test", page_icon='🔨')
 st.title('🔨 Test Streamlit Sharing Deployment')
