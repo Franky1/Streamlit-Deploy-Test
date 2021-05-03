@@ -1,2 +1,2 @@
 streamlit
-librosa
+opencv-python-headless
