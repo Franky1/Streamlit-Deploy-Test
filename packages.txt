@@ -1,3 +1,1 @@
-dialog
-apt-utils
-freeglut3-dev
+libsndfile1-dev
